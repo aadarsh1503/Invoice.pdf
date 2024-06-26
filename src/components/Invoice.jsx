@@ -156,7 +156,7 @@ const Invoice = ({
     <div className="p-6 bg-white" ref={invoiceRef}>
       <div className="flex justify-between items-center">
         <div>
-          <img src="/path/to/logo.png" alt="Company Logo" className="h-12" />
+          <img src="./src/components/INVOICE.png" alt="Company ogo" className="h-12" />
           <h1 className="text-xl font-bold">Invoice</h1>
         </div>
         <div className="text-right">
